@@ -4,7 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98fb3025-33b7-4a3d-9306-6247a124ad53" name="Changes" comment="" />
+    <list default="true" id="98fb3025-33b7-4a3d-9306-6247a124ad53" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/blogdb.trace.db" beforeDir="false" afterPath="$PROJECT_DIR$/db/blogdb.trace.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/studyeasy/SpringBlog/SpringBlogApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/SpringBlogApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/studyeasy/SpringBlog/config/SeedData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/config/SeedData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/studyeasy/SpringBlog/controller/AccountController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/controller/AccountController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/studyeasy/SpringBlog/controller/AdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/controller/AdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/studyeasy/SpringBlog/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/controller/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/studyeasy/SpringBlog/controller/PostController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/controller/PostController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/studyeasy/SpringBlog/models/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/models/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/studyeasy/SpringBlog/models/Authority.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/models/Authority.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/studyeasy/SpringBlog/models/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/models/Post.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/studyeasy/SpringBlog/repositories/AccountRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/repositories/AccountRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/studyeasy/SpringBlog/repositories/AuthorityRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/repositories/AuthorityRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/studyeasy/SpringBlog/repositories/PostRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/repositories/PostRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/studyeasy/SpringBlog/security/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/security/WebSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/studyeasy/SpringBlog/services/AccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/services/AccountService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/studyeasy/SpringBlog/services/AuthorityService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/services/AuthorityService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/studyeasy/SpringBlog/services/PostService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/services/PostService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/studyeasy/SpringBlog/util/constants/Privillages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/util/constants/Privillages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/studyeasy/SpringBlog/util/constants/Roles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/util/constants/Roles.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,10 +96,17 @@
       <recent name="D:\Spring Java - Projects!\SpringBlog_addingUserAccountsSupportintheSpringApp\src\main\resources\templates\post_views" />
     </key>
   </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
   <component name="RunManager">
-    <configuration name="SpringBlogApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="SpringStarter" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="org.studyeasy.SpringBlog.SpringBlogApplication" />
+    <configuration name="SpringBlogApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SpringBlog" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sdu.edu.kz.SpringBlog.SpringBlogApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -99,6 +129,7 @@
       <workItem from="1707829458854" duration="2358000" />
       <workItem from="1707901500731" duration="2790000" />
       <workItem from="1707909022524" duration="2141000" />
+      <workItem from="1707912920767" duration="211000" />
     </task>
     <servers />
   </component>

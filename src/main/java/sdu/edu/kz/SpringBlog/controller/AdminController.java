@@ -1,4 +1,4 @@
-package org.studyeasy.SpringBlog.controller;
+package sdu.edu.kz.SpringBlog.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

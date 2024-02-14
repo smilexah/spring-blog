@@ -1,10 +1,10 @@
-package org.studyeasy.SpringBlog.repositories;
+package sdu.edu.kz.SpringBlog.repositories;
 
 import java.util.Optional;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
-import org.studyeasy.SpringBlog.models.Account;
+import sdu.edu.kz.SpringBlog.models.Account;
 
 @Repository
 public interface AccountRepository extends JpaRepository<Account, Long>{

@@ -1,4 +1,4 @@
-package org.studyeasy.SpringBlog.models;
+package sdu.edu.kz.SpringBlog.models;
 
 import java.time.LocalDateTime;
 

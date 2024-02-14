@@ -1,4 +1,4 @@
-package org.studyeasy.SpringBlog.controller;
+package sdu.edu.kz.SpringBlog.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
@@ -7,8 +7,8 @@ import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PostMapping;
-import org.studyeasy.SpringBlog.models.Account;
-import org.studyeasy.SpringBlog.services.AccountService;
+import sdu.edu.kz.SpringBlog.models.Account;
+import sdu.edu.kz.SpringBlog.services.AccountService;
 
 import javax.validation.Valid;
 

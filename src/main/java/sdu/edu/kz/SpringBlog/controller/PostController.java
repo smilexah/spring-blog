@@ -1,4 +1,4 @@
-package org.studyeasy.SpringBlog.controller;
+package sdu.edu.kz.SpringBlog.controller;
 import java.security.Principal;
 import java.util.Optional;
 
@@ -11,10 +11,10 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
-import org.studyeasy.SpringBlog.models.Account;
-import org.studyeasy.SpringBlog.models.Post;
-import org.studyeasy.SpringBlog.services.AccountService;
-import org.studyeasy.SpringBlog.services.PostService;
+import sdu.edu.kz.SpringBlog.models.Account;
+import sdu.edu.kz.SpringBlog.models.Post;
+import sdu.edu.kz.SpringBlog.services.AccountService;
+import sdu.edu.kz.SpringBlog.services.PostService;
 
 import javax.validation.Valid;
 

@@ -1,4 +1,4 @@
-package org.studyeasy.SpringBlog.security;
+package sdu.edu.kz.SpringBlog.security;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.security.config.annotation.method.configuration.EnableGlobalMethodSecurity;

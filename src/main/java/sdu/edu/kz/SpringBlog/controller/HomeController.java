@@ -1,4 +1,4 @@
-package org.studyeasy.SpringBlog.controller;
+package sdu.edu.kz.SpringBlog.controller;
 
 import java.util.List;
 
@@ -6,8 +6,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
-import org.studyeasy.SpringBlog.models.Post;
-import org.studyeasy.SpringBlog.services.PostService;
+import sdu.edu.kz.SpringBlog.models.Post;
+import sdu.edu.kz.SpringBlog.services.PostService;
 
 @Controller
 public class HomeController {

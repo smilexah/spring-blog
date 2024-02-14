@@ -1,16 +1,16 @@
-package org.studyeasy.SpringBlog.config;
+package sdu.edu.kz.SpringBlog.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
-import org.studyeasy.SpringBlog.models.Account;
-import org.studyeasy.SpringBlog.models.Authority;
-import org.studyeasy.SpringBlog.models.Post;
-import org.studyeasy.SpringBlog.services.AccountService;
-import org.studyeasy.SpringBlog.services.AuthorityService;
-import org.studyeasy.SpringBlog.services.PostService;
-import org.studyeasy.SpringBlog.util.constants.Privillages;
-import org.studyeasy.SpringBlog.util.constants.Roles;
+import sdu.edu.kz.SpringBlog.models.Account;
+import sdu.edu.kz.SpringBlog.models.Authority;
+import sdu.edu.kz.SpringBlog.models.Post;
+import sdu.edu.kz.SpringBlog.services.AccountService;
+import sdu.edu.kz.SpringBlog.services.AuthorityService;
+import sdu.edu.kz.SpringBlog.services.PostService;
+import sdu.edu.kz.SpringBlog.util.constants.Privillages;
+import sdu.edu.kz.SpringBlog.util.constants.Roles;
 
 import java.time.LocalDate;
 import java.util.HashSet;

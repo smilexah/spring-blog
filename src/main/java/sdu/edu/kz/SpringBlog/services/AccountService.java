@@ -1,4 +1,4 @@
-package org.studyeasy.SpringBlog.services;
+package sdu.edu.kz.SpringBlog.services;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -15,10 +15,10 @@ import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
-import org.studyeasy.SpringBlog.models.Account;
-import org.studyeasy.SpringBlog.models.Authority;
-import org.studyeasy.SpringBlog.repositories.AccountRepository;
-import org.studyeasy.SpringBlog.util.constants.Roles;
+import sdu.edu.kz.SpringBlog.models.Account;
+import sdu.edu.kz.SpringBlog.models.Authority;
+import sdu.edu.kz.SpringBlog.repositories.AccountRepository;
+import sdu.edu.kz.SpringBlog.util.constants.Roles;
 
 @Service
 public class AccountService implements UserDetailsService{

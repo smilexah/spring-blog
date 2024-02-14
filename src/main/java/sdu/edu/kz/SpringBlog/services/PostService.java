@@ -1,12 +1,12 @@
-package org.studyeasy.SpringBlog.services;
+package sdu.edu.kz.SpringBlog.services;
 import java.time.LocalDateTime;
 import java.util.List;
 import java.util.Optional;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import org.studyeasy.SpringBlog.models.Post;
-import org.studyeasy.SpringBlog.repositories.PostRepository;
+import sdu.edu.kz.SpringBlog.models.Post;
+import sdu.edu.kz.SpringBlog.repositories.PostRepository;
 
 @Service
 public class PostService {
