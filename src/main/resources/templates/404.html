@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+
+<head th:replace="/fragments/head :: head">
+
+<body id="Body">
+<p dir="ltr" class="type"></p>
+
+<!-- Content to be typed -->
+<div id="user-type" class="d-none user-type">
+    <span>Microsoft Windows [Version 10.0.18363.1256]</span>
+    <p>(c) 2019 Microsoft Corporation. All rights reserved.</p>
+    <br>
+    <p class="run">
+        <span>SDU Demo:\ErrorPage\404></span>
+        <span class="text-success">404page.html</span>
+        <span class="type-cursor"></span>
+    </p>
+    <div class="text--Error">
+        <h1>Not Found Error 404</h1>
+        <!--buttons-->
+        <a href="/" class="btn">Back</a>
+        <a href="/" class="btn">Back to Home</a>
+    </div>
+</div>
+<!-- Script -->
+<script th:src="@{/resources/static/js/typed.js}"></script>
+<script type="text/javascript">
+    let typed = new Typed(".type", {
+        strings: [
+            document.getElementById("user-type").innerHTML,
+        ],
+        typeSpeed: 10,
+        loop: false
+    });
+</script>
+</body>
+
+</html>

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+
+<head th:replace="/fragments/head :: head">
+
+<body class="sub_page">
+
+<div class="hero_area">
+    <div class="bg-box">
+        <img th:src="@{/resources/static/images/nav-bg.jpg}" alt="">
+    </div>
+    <header th:replace="/fragments/header :: header">
+</div>
+
+<!-- book section -->
+<section class="book_section layout_padding">
+    <div class="container">
+        <div class="heading_container">
+            <h4>
+                Register
+            </h4>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <div class="form_container">
+                    <form action="#"
+                          th:action="@{/register}"
+                          th:object="${account}"
+                          method="post">
+                        <div>
+                            <input id="email" name="email" type="email" th:field="*{email}" class="form-control"
+                                   placeholder="Email" required/>
+                            <p class="alert alert-danger" role="alert" th:if="${#fields.hasErrors('email')}"
+                               th:errors="*{email}">Invalid email!</p>
+                        </div>
+                        <div>
+                            <input id="password" type="password" th:field="*{password}" class="form-control"
+                                   placeholder="Password" required/>
+                            <p class="alert alert-danger" role="alert" th:if="${#fields.hasErrors('password')}"
+                               th:errors="*{password}">Invalid password!</p>
+                        </div>
+                        <div>
+                            <input id="firstname" type="text" th:field="*{firstname}" class="form-control"
+                                   placeholder="First name" required/>
+                            <p class="alert alert-danger" role="alert" th:if="${#fields.hasErrors('firstname')}"
+                               th:errors="*{firstname}">Invalid firstname!</p>
+                        </div>
+                        <div>
+                            <input id="lastname" type="text" th:field="*{lastname}" class="form-control"
+                                   placeholder="Last name" required/>
+                            <p class="alert alert-danger" role="alert" th:if="${#fields.hasErrors('lastname')}"
+                               th:errors="*{lastname}">Invalid lastname!</p>
+                        </div>
+                        <div>
+                            <input id="age" type="number" th:field="*{age}" class="form-control"
+                                   placeholder="Age" value="18" min="18" max="65" required/>
+                            <p class="alert alert-danger" role="alert" th:if="${#fields.hasErrors('age')}"
+                               th:errors="*{age}">Invalid age!</p>
+                        </div>
+                        <div>
+                            <input id="dateOfBirth" type="date" th:field="*{dateOfBirth}" class="form-control"
+                                   placeholder="Date of birth" required/>
+                            <p class="alert alert-danger" role="alert" th:if="${#fields.hasErrors('dateOfBirth')}"
+                               th:errors="*{dateOfBirth}">Invalid date Of Birth!</p>
+                        </div>
+
+                        <div>
+                            <select id="gender" name="gender" th:field="*{gender}" class="form-control">
+                                <option value="Male">Male</option>
+                                <option value="Female">Female</option>
+                                <option value="Other">Other</option>
+                            </select>
+                            <p class="alert alert-danger" role="alert" th:if="${#fields.hasErrors('gender')}"
+                               th:errors="*{gender}">Invalid gender!</p>
+                        </div>
+                        <div class="btn_box">
+                            <button type="submit">
+                                Register
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+</section>
+<!-- end book section -->
+<footer th:replace="/fragments/footer :: footer">
+</body>
+
+</html>
