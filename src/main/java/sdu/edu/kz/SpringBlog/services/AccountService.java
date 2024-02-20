@@ -1,10 +1,5 @@
 package sdu.edu.kz.SpringBlog.services;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Optional;
-import java.util.Set;
-
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.security.core.GrantedAuthority;
@@ -19,6 +14,11 @@ import sdu.edu.kz.SpringBlog.models.Account;
 import sdu.edu.kz.SpringBlog.models.Authority;
 import sdu.edu.kz.SpringBlog.repositories.AccountRepository;
 import sdu.edu.kz.SpringBlog.util.constants.Roles;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Optional;
+import java.util.Set;
 
 @Service
 public class AccountService implements UserDetailsService{
@@ -41,21 +41,25 @@ public class AccountService implements UserDetailsService{
             String path = photoPrefix.replace("**", "images/person.png");
             account.setPhoto(path);
         }
-        return accountRepository.save(account);    
+        return accountRepository.save(account);
     }
 
     public Optional<Account> findOneByEmail(String email) {
         return accountRepository.findOneByEmailIgnoreCase(email);
     }
 
+    public Optional<Account> findById(Long id) {
+        return accountRepository.findById(id);
+    }
+
     @Override
     public UserDetails loadUserByUsername(String email) throws UsernameNotFoundException {
         Optional<Account> optionalAccount = accountRepository.findOneByEmailIgnoreCase(email);
-        if(!optionalAccount.isPresent()){
+        if (!optionalAccount.isPresent()) {
             throw new UsernameNotFoundException("Account not found");
         }
         Account account = optionalAccount.get();
-        
+
         List<GrantedAuthority> grantedAuthority = new ArrayList<>();
         grantedAuthority.add(new SimpleGrantedAuthority(account.getRole()));
 

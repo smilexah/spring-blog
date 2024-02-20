@@ -226,3 +226,9 @@ Caused by: org.h2.jdbc.JdbcSQLInvalidAuthorizationSpecException: Wrong user name
 2024-02-13 13:41:37 jdbc[3]: exception
 org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "AUTHORITY" not found (this database is empty); SQL statement:
 select authority0_.id as id1_2_0_, authority0_.name as name2_2_0_ from authority authority0_ where authority0_.id=? [42104-214]
+2024-02-19 15:44:41 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "AUTHORITY" not found (this database is empty); SQL statement:
+select authority0_.id as id1_2_0_, authority0_.name as name2_2_0_ from authority authority0_ where authority0_.id=? [42104-214]
+2024-02-19 15:44:49 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "AUTHORITY" not found (this database is empty); SQL statement:
+select authority0_.id as id1_2_0_, authority0_.name as name2_2_0_ from authority authority0_ where authority0_.id=? [42104-214]

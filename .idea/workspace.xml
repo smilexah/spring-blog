@@ -4,29 +4,332 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98fb3025-33b7-4a3d-9306-6247a124ad53" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="98fb3025-33b7-4a3d-9306-6247a124ad53" name="Changes" comment="changed directory">
+      <change afterPath="$PROJECT_DIR$/../../DBMS Projects/.idea/DBMS Projects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DBMS Projects/Ass4_defence/.idea/Ass4_defence.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DBMS Projects/Ass5_defence/.idea/Ass5_defence.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DBMS Projects/Assignment2/.idea/Assignment2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DBMS Projects/Assignment3/.idea/Assignment3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DBMS Projects/Assignment4/.idea/Assignment4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DBMS Projects/Assignment5/.idea/Assignment5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DBMS Projects/Assignment6/.idea/Assignment6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DBMS Projects/Bonus_task1/.idea/Bonus_task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DBMS Projects/Bonus_task2/.idea/Bonus_task2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DBMS Projects/Bonus_task3/.idea/Bonus_task3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DBMS Projects/Practice_work1/.idea/Practice_work1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Documents/Олимпиадное программирование/С++ решение/.idea/С++ решение.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/.idea/qit-project-react.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/Contact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/css/animate.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/css/barfiller.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/css/cssMenu/barfiller.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/css/cssMenu/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/css/cssMenu/elegant-icons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/css/cssMenu/flaticon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/css/cssMenu/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/css/cssMenu/magnific-popup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/css/cssMenu/nice-select.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/css/cssMenu/owl.carousel.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/css/cssMenu/slicknav.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/css/cssMenu/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/css/css_login/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/css/css_login/style.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/css/flaticon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/css/fontawesome-all.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/css/gijgo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/css/magnific-popup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/css/nice-select.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/css/owl.carousel.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/css/price_rangs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/css/responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/css/slick.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/css/slicknav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/css/style.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/css/themify-icons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/Flaticon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/Flaticon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/Flaticon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/Flaticon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/Flaticon.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/_flaticon.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/flaticon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/flaticon.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/gijgo-material.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/gijgo-material.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/gijgo-material.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/gijgo-material.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/material-icon/css/material-design-iconic-font.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/material-icon/css/material-design-iconic-font.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/material-icon/fonts/Material-Design-Iconic-Font.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/material-icon/fonts/Material-Design-Iconic-Font.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/material-icon/fonts/Material-Design-Iconic-Font.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/material-icon/fonts/Material-Design-Iconic-Font.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/material-icon/fonts/Material-Design-Iconic-Font.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/poppins-v5-latin-300.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/poppins-v5-latin-300.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/poppins-v5-latin-300.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/poppins-v5-latin-300.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/poppins-v5-latin-300.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/poppins-v5-latin-300italic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/poppins-v5-latin-300italic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/poppins-v5-latin-300italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/poppins-v5-latin-300italic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/poppins-v5-latin-300italic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/poppins-v5-latin-500.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/poppins-v5-latin-500.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/poppins-v5-latin-500.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/poppins-v5-latin-500.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/poppins-v5-latin-500.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/poppins-v5-latin-500italic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/poppins-v5-latin-500italic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/poppins-v5-latin-500italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/poppins-v5-latin-500italic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/poppins-v5-latin-500italic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/poppins-v5-latin-600.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/poppins-v5-latin-600.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/poppins-v5-latin-600.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/poppins-v5-latin-600.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/poppins-v5-latin-600.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/poppins-v5-latin-700.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/poppins-v5-latin-700.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/poppins-v5-latin-700.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/poppins-v5-latin-700.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/poppins-v5-latin-700.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/poppins-v5-latin-700italic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/poppins-v5-latin-700italic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/poppins-v5-latin-700italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/poppins-v5-latin-700italic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/poppins-v5-latin-700italic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/poppins-v5-latin-800.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/poppins-v5-latin-800.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/poppins-v5-latin-800.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/poppins-v5-latin-800.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/poppins-v5-latin-800.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/poppins-v5-latin-800italic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/poppins-v5-latin-800italic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/poppins-v5-latin-800italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/poppins-v5-latin-800italic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/poppins-v5-latin-800italic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/poppins-v5-latin-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/poppins-v5-latin-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/poppins-v5-latin-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/poppins-v5-latin-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/poppins-v5-latin-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/poppins-v5-latin-italic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/poppins-v5-latin-italic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/poppins-v5-latin-italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/poppins-v5-latin-italic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/poppins-v5-latin-italic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/poppins-v5-latin-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/poppins-v5-latin-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/poppins-v5-latin-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/poppins-v5-latin-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/poppins-v5-latin-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/roboto-condensed-v16-latin-700.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/roboto-condensed-v16-latin-700.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/roboto-condensed-v16-latin-700.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/roboto-condensed-v16-latin-700.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/roboto-condensed-v16-latin-700.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/roboto-condensed-v16-latin-700italic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/roboto-condensed-v16-latin-700italic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/roboto-condensed-v16-latin-700italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/roboto-condensed-v16-latin-700italic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/roboto-condensed-v16-latin-700italic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/roboto-condensed-v16-latin-italic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/roboto-condensed-v16-latin-italic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/roboto-condensed-v16-latin-italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/roboto-condensed-v16-latin-italic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/roboto-condensed-v16-latin-italic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/roboto-condensed-v16-latin-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/roboto-condensed-v16-latin-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/roboto-condensed-v16-latin-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/roboto-condensed-v16-latin-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/poppins/roboto-condensed-v16-latin-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/themify.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/themify.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/themify.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/fonts/themify.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/ProductImage/product-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/ProductImage/product-10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/ProductImage/product-11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/ProductImage/product-12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/ProductImage/product-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/ProductImage/product-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/ProductImage/product-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/ProductImage/product-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/ProductImage/product-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/ProductImage/product-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/ProductImage/product-8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/ProductImage/product-9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/blog/author.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/blog/learn_about_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/blog/single_blog_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/blog/single_blog_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/blog/single_blog_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/blog/single_blog_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/blog/single_blog_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/blog/slide_thumb_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/comment/comment_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/comment/comment_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/comment/comment_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/elements/a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/elements/a2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/elements/d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/elements/disabled-check.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/elements/disabled-radio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/elements/f1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/elements/f2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/elements/f3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/elements/f4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/elements/f5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/elements/f6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/elements/f7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/elements/f8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/elements/g1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/elements/g2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/elements/g3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/elements/g4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/elements/g5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/elements/g6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/elements/g7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/elements/g8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/elements/primary-check.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/elements/primary-radio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/elements/success-check.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/elements/success-radio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/gallery/Homepage_testi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/gallery/about.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/gallery/about2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/gallery/blog02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/gallery/blog1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/gallery/blog2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/gallery/blog3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/gallery/footer_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/gallery/gallery1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/gallery/gallery2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/gallery/gallery3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/gallery/gallery4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/gallery/instagram1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/gallery/instagram2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/gallery/instagram3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/gallery/instagram4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/gallery/instagram5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/gallery/instagram6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/gallery/section_bg01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/gallery/section_bg02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/gallery/section_bg03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/gallery/section_bg04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/hero/h1_hero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/hero/hero2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/login/form-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/logo/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/logo/logo2_footer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/our_blog/blog-img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/post/next.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/post/post_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/post/post_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/post/post_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/post/post_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/post/post_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/post/post_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/post/post_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/post/post_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/post/post_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/post/post_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/img/post/preview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/js/animated.headline.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/js/contact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/js/gijgo.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/js/jquery.ajaxchimp.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/js/jquery.form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/js/jquery.magnific-popup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/js/jquery.nice-select.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/js/jquery.paroller.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/js/jquery.slicknav.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/js/jquery.sticky.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/js/jquery.validate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/js/mail-script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/js/one-page-nav-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/js/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/js/plugins.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/js/price-range.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/js/slick.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/js/vendor/jquery-1.12.4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/js/vendor/modernizr-3.5.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/js/wow.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/scss/_about.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/scss/_blog_page.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/scss/_booking.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/scss/_bradcam.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/scss/_color.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/scss/_common.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/scss/_contact.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/scss/_elements.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/scss/_extend.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/scss/_footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/scss/_gallery.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/scss/_h1-hero.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/scss/_headerMenu.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/scss/_overlay.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/scss/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/scss/_services.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/scss/_services_section.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/scss/_testimonial.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/assets/scss/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/components/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/components/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java - Udemy Course!/1. Hello World application in cmd!/1. Hello World application in cmd!.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java - Udemy Course!/Java - Udemy Course!.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/util/AppUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/uploads/ouONf9gGHgkk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code/c++/.idea/sad.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code/c++/New folder/.idea/New folder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code/course/.idea/course.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code/stazhka/.idea/stazhka.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../php course/homework/.idea/homework.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/blogdb.mv.db" beforeDir="false" afterPath="$PROJECT_DIR$/db/blogdb.mv.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db/blogdb.trace.db" beforeDir="false" afterPath="$PROJECT_DIR$/db/blogdb.trace.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/studyeasy/SpringBlog/SpringBlogApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/SpringBlogApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/studyeasy/SpringBlog/config/SeedData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/config/SeedData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/studyeasy/SpringBlog/controller/AccountController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/controller/AccountController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/studyeasy/SpringBlog/controller/AdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/controller/AdminController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/studyeasy/SpringBlog/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/controller/HomeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/studyeasy/SpringBlog/controller/PostController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/controller/PostController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/studyeasy/SpringBlog/models/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/models/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/studyeasy/SpringBlog/models/Authority.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/models/Authority.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/studyeasy/SpringBlog/models/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/models/Post.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/studyeasy/SpringBlog/repositories/AccountRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/repositories/AccountRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/studyeasy/SpringBlog/repositories/AuthorityRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/repositories/AuthorityRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/studyeasy/SpringBlog/repositories/PostRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/repositories/PostRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/studyeasy/SpringBlog/security/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/security/WebSecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/studyeasy/SpringBlog/services/AccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/services/AccountService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/studyeasy/SpringBlog/services/AuthorityService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/services/AuthorityService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/studyeasy/SpringBlog/services/PostService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/services/PostService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/studyeasy/SpringBlog/util/constants/Privillages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/util/constants/Privillages.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/studyeasy/SpringBlog/util/constants/Roles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/util/constants/Roles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/config/SeedData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/config/SeedData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/controller/AccountController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/controller/AccountController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/controller/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/security/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/security/WebSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/services/AccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/services/AccountService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/account_views/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/account_views/profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/account_views/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/account_views/profile.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +341,7 @@
       <list>
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -63,34 +367,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Spring Java - Projects!/SpringBlog_addingUserAccountsSupportintheSpringApp/src/main/resources/templates/post_views&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;102a18275e6eab0ce128dfaaaa7702b2&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/Spring Java - Projects!/SpringBlog_addingUserAccountsSupportintheSpringApp/src/main/resources/templates/post_views",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "spring.configuration.checksum": "703d37a00bdfd67e6debc7edd3bc0300",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Spring Java - Projects!\SpringBlog_addingUserAccountsSupportintheSpringApp\src\main\resources\templates\post_views" />
@@ -129,8 +433,21 @@
       <workItem from="1707829458854" duration="2358000" />
       <workItem from="1707901500731" duration="2790000" />
       <workItem from="1707909022524" duration="2141000" />
-      <workItem from="1707912920767" duration="211000" />
+      <workItem from="1707912920767" duration="5299000" />
+      <workItem from="1708088153152" duration="624000" />
+      <workItem from="1708318231338" duration="5399000" />
+      <workItem from="1708335579216" duration="1464000" />
+      <workItem from="1708404728491" duration="2026000" />
     </task>
+    <task id="LOCAL-00001" summary="changed directory">
+      <option name="closed" value="true" />
+      <created>1707913334641</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707913334641</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,5 +455,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="changed directory" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed directory" />
   </component>
 </project>

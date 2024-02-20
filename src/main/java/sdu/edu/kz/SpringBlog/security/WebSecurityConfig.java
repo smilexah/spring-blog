@@ -19,7 +19,8 @@ public class WebSecurityConfig {
             "/css/**",
             "/fonts/**",
             "/images/**",
-            "/js/**"
+            "/js/**",
+            "/uploads/**"
     };
 
 
@@ -58,5 +59,3 @@ public class WebSecurityConfig {
     }
 
 }
-
-

@@ -12,13 +12,103 @@
     <header th:replace="/fragments/header :: header">
 </div>
 
+<section class="book_section layout_padding">
+    <div class="container">
+        <div class="heading_container">
+            <h4>
+                My Profile
+            </h4>
+        </div>
 
-<section class="about_section layout_padding">
-    <div class="container  ">
+        <div class="row">
+            <div class="col-xl-4">
+                <!-- Profile picture card-->
+                <div class="card mb-4 mb-xl-0">
+                    <div class="card-header">Profile Picture</div>
+                    <div class="card-body text-center">
+                        <!-- Profile picture image-->
+                        <img class="img-account-profile rounded-circle mb-2" th:src="@{${photo}}" alt="Avatar" width="250px" height="250px">
+                        <!-- Profile picture help block-->
+                        <div class="small font-italic text-muted mb-4">JPG or PNG no larger than 5 MB</div>
+                        <p th:text="${error}" th:if="${error ne null}" class="alert alert-danger"></p>
+                        <p th:text="${message}" th:if="${message ne null}" class="alert alert-success"></p>
+                        <!-- Profile picture upload button-->
+                        <form th:action="@{/update_photo}" method="post" enctype="multipart/form-data">
+                            <div class="form-group">
+                                <input type="file" name="image" accept="image/*" class="form-control-file">
+                            </div>
 
-        Profile.....
-    </div>
+                            <button class="btn btn-primary" type="submit">Upload new image</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-xl-8">
+                <div class="card mb-4">
+                    <div class="form_container">
+                        <form action="#"
+                              th:action="@{/profile}"
+                              th:object="${account}"
+                              method="post">
+                            <div>
+                                <input type="hidden" id="id" name="id" th:field="*{id}">
+                                <input id="email" name="email" type="email" th:field="*{email}" class="form-control"
+                                       placeholder="Email" required/>
+                                <p class="alert alert-danger" role="alert" th:if="${#fields.hasErrors('email')}"
+                                   th:errors="*{email}">Invalid email!</p>
+                            </div>
+                            <div>
+                                <input id="password" type="password" th:field="*{password}" class="form-control"
+                                       placeholder="Password" required/>
+                                <p class="alert alert-danger" role="alert" th:if="${#fields.hasErrors('password')}"
+                                   th:errors="*{password}">Invalid password!</p>
+                            </div>
+                            <div>
+                                <input id="firstname" type="text" th:field="*{firstname}" class="form-control"
+                                       placeholder="First name" required/>
+                                <p class="alert alert-danger" role="alert" th:if="${#fields.hasErrors('firstname')}"
+                                   th:errors="*{firstname}">Invalid firstname!</p>
+                            </div>
+                            <div>
+                                <input id="lastname" type="text" th:field="*{lastname}" class="form-control"
+                                       placeholder="Last name" required/>
+                                <p class="alert alert-danger" role="alert" th:if="${#fields.hasErrors('lastname')}"
+                                   th:errors="*{lastname}">Invalid lastname!</p>
+                            </div>
+                            <div>
+                                <input id="age" type="number" th:field="*{age}" class="form-control"
+                                       placeholder="Age" value="18" min="18" max="65" required/>
+                                <p class="alert alert-danger" role="alert" th:if="${#fields.hasErrors('age')}"
+                                   th:errors="*{age}">Invalid age!</p>
+                            </div>
+                            <div>
+                                <input id="dateOfBirth" type="date" th:field="*{dateOfBirth}" class="form-control"
+                                       placeholder="Date of birth" required/>
+                                <p class="alert alert-danger" role="alert" th:if="${#fields.hasErrors('dateOfBirth')}"
+                                   th:errors="*{dateOfBirth}">Invalid date Of Birth!</p>
+                            </div>
+
+                            <div>
+                                <select id="gender" name="gender" th:field="*{gender}" class="form-control">
+                                    <option value="Male">Male</option>
+                                    <option value="Female">Female</option>
+                                    <option value="Other">Other</option>
+                                </select>
+                                <p class="alert alert-danger" role="alert" th:if="${#fields.hasErrors('gender')}"
+                                   th:errors="*{gender}">Invalid gender!</p>
+                            </div>
+                            <div class="btn_box">
+                                <button type="submit">
+                                    Update Profile
+                                </button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
 </section>
+
 <footer th:replace="/fragments/footer :: footer">
 </body>
 

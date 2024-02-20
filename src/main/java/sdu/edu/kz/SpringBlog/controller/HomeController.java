@@ -20,6 +20,4 @@ public class HomeController {
         model.addAttribute("posts", posts);
         return "home_views/home";
     }
-  
-    
 }
