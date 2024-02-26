@@ -2,18 +2,12 @@ package sdu.edu.kz.SpringBlog.models;
 
 
 import java.time.LocalDate;
+import java.time.LocalDateTime;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
-import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;
-import javax.persistence.Id;
-import javax.persistence.JoinColumn;
-import javax.persistence.JoinTable;
-import javax.persistence.ManyToMany;
-import javax.persistence.OneToMany;
+import javax.persistence.*;
 import javax.validation.constraints.Email;
 import javax.validation.constraints.Max;
 import javax.validation.constraints.Min;
@@ -61,6 +55,11 @@ public class Account {
 
     @OneToMany(mappedBy = "account")
     private List<Post> posts;
+
+    @Column(name = "token")
+    private String token;
+
+    private LocalDateTime password_reset_token_expiry;
 
     @ManyToMany
     @JoinTable(

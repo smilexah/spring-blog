@@ -44,14 +44,6 @@ public class AccountService implements UserDetailsService{
         return accountRepository.save(account);
     }
 
-    public Optional<Account> findOneByEmail(String email) {
-        return accountRepository.findOneByEmailIgnoreCase(email);
-    }
-
-    public Optional<Account> findById(Long id) {
-        return accountRepository.findById(id);
-    }
-
     @Override
     public UserDetails loadUserByUsername(String email) throws UsernameNotFoundException {
         Optional<Account> optionalAccount = accountRepository.findOneByEmailIgnoreCase(email);
@@ -70,5 +62,17 @@ public class AccountService implements UserDetailsService{
 
         return new User(account.getEmail(), account.getPassword(), grantedAuthority);
     }
-    
+
+    public Optional<Account> findByToken(String token) {
+        return accountRepository.findByToken(token);
+    }
+
+    public Optional<Account> findOneByEmail(String email) {
+        return accountRepository.findOneByEmailIgnoreCase(email);
+    }
+
+    public Optional<Account> findById(Long id) {
+        return accountRepository.findById(id);
+    }
+
 }

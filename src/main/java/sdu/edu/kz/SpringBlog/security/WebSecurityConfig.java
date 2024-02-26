@@ -49,6 +49,8 @@ public class WebSecurityConfig {
                 .logout().logoutUrl("/logout")
                 .logoutSuccessUrl("/")
                 .and()
+                .rememberMe().rememberMeParameter("remember-me")
+                .and()
                 .httpBasic();
 
         // TODO: remove these after upgrading the DB from H2 infile DB

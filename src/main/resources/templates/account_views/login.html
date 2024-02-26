@@ -26,11 +26,19 @@
                           th:action="@{/login}"
                           method="post">
                         <div>
+                            <p th:text="${message}" th:if="${message ne null}" class="alert alert-primary"></p>
                             <input id="email" name="email" type="email" class="form-control" placeholder="Email" required/>
                         </div>
                         <div>
                             <input id="password" name="password" type="password" class="form-control"
                                    placeholder="Password" required/>
+                        </div>
+                        <div class="form-check">
+                            <input type="checkbox" class="form-check-input" value="remember-me" id="remember-me" name="remember-me" />
+                            <label class="form-check-label" for="flexCheckChecked">
+                                Remember me
+                            </label>
+                            |   <a th:href="@{/forgot-password}" class="link-secondary" style="text-decoration: none">Forgot password</a>
                         </div>
                         <div class="btn_box">
                             <button type="submit">

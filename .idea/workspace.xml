@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98fb3025-33b7-4a3d-9306-6247a124ad53" name="Changes" comment="changed directory">
+    <list default="true" id="98fb3025-33b7-4a3d-9306-6247a124ad53" name="Changes" comment="upload photo">
+      <change afterPath="$PROJECT_DIR$/../../$RECYCLE.BIN/S-1-5-21-1563055372-1664253910-1839971188-1001/$R5RCST0/production/PizzaService/.idea/PizzaService.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../$RECYCLE.BIN/S-1-5-21-1563055372-1664253910-1839971188-1001/$RF52TSR/.idea/Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../$RECYCLE.BIN/S-1-5-21-1563055372-1664253910-1839971188-1001/$RQ44CLC.idea/PizzaService.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../DBMS Projects/.idea/DBMS Projects.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../DBMS Projects/Ass4_defence/.idea/Ass4_defence.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../DBMS Projects/Ass5_defence/.idea/Ass5_defence.iml" afterDir="false" />
@@ -17,6 +20,48 @@
       <change afterPath="$PROJECT_DIR$/../../DBMS Projects/Bonus_task2/.idea/Bonus_task2.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../DBMS Projects/Bonus_task3/.idea/Bonus_task3.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../DBMS Projects/Practice_work1/.idea/Practice_work1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Documents/Zakaz/JavaProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Documents/Zakaz/JavaProject/.idea/JavaProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Documents/Zakaz/JavaProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Documents/Zakaz/JavaProject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Documents/Zakaz/JavaProject/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Documents/Zakaz/JavaProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Documents/Zakaz/JavaProject/dao/OrderDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Documents/Zakaz/JavaProject/dao/PizzaDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Documents/Zakaz/JavaProject/exceptions/PizzaException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Documents/Zakaz/JavaProject/interfaces/PizzaInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Documents/Zakaz/JavaProject/models/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Documents/Zakaz/JavaProject/models/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Documents/Zakaz/JavaProject/models/PizzaBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Documents/Zakaz/JavaProject/models/Topping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Documents/Zakaz/JavaProject/services/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Documents/Zakaz/JavaProject/services/PizzaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Documents/Zakaz/JavaProject/ui/AdminConsole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Documents/Zakaz/JavaProject/ui/CustomerConsole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Documents/Zakaz/PizzaService/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Documents/Zakaz/PizzaService/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Documents/Zakaz/PizzaService/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Documents/Zakaz/PizzaService/PizzaService.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Documents/Zakaz/PizzaService/out/production/PizzaService/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Documents/Zakaz/PizzaService/out/production/PizzaService/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Documents/Zakaz/PizzaService/out/production/PizzaService/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Documents/Zakaz/PizzaService/out/production/PizzaService/Address.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Documents/Zakaz/PizzaService/out/production/PizzaService/Customer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Documents/Zakaz/PizzaService/out/production/PizzaService/Order.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Documents/Zakaz/PizzaService/out/production/PizzaService/Pizza.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Documents/Zakaz/PizzaService/out/production/PizzaService/PizzaBase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Documents/Zakaz/PizzaService/out/production/PizzaService/PizzaDashboard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Documents/Zakaz/PizzaService/out/production/PizzaService/PizzaInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Documents/Zakaz/PizzaService/out/production/PizzaService/PizzaService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Documents/Zakaz/PizzaService/out/production/PizzaService/PizzaService.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Documents/Zakaz/PizzaService/out/production/PizzaService/PizzaStore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Documents/Zakaz/PizzaService/out/production/PizzaService/Topping.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Documents/Zakaz/Project/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Documents/Zakaz/Project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Documents/Zakaz/Project/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Documents/Zakaz/Project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Documents/Zakaz/Project/Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Documents/Zakaz/S08L07 - Password change in Spring boot/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Documents/Олимпиадное программирование/С++ решение/.idea/С++ решение.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/.idea/modules.xml" afterDir="false" />
@@ -308,28 +353,31 @@
       <change afterPath="$PROJECT_DIR$/../../Hackathon/qit-project-react/src/components/Header.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Java - Udemy Course!/1. Hello World application in cmd!/1. Hello World application in cmd!.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Java - Udemy Course!/Java - Udemy Course!.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/util/AppUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/uploads/ouONf9gGHgkk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/services/EmailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/util/email/EmailDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/secret.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/account_views/change_password.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/account_views/forgot_password.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../code/c++/.idea/sad.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../code/c++/New folder/.idea/New folder.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../code/course/.idea/course.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../code/stazhka/.idea/stazhka.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../php course/homework/.idea/homework.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db/blogdb.mv.db" beforeDir="false" afterPath="$PROJECT_DIR$/db/blogdb.mv.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/blogdb.trace.db" beforeDir="false" afterPath="$PROJECT_DIR$/db/blogdb.trace.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/config/SeedData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/config/SeedData.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/controller/AccountController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/controller/AccountController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/controller/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/models/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/models/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/repositories/AccountRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/repositories/AccountRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/security/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/security/WebSecurityConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/services/AccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/services/AccountService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/account_views/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/account_views/profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/account_views/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/account_views/login.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/account_views/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/account_views/profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/account_views/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/account_views/login.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -380,7 +428,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Spring Java - Projects!/SpringBlog_addingUserAccountsSupportintheSpringApp/src/main/resources/templates/post_views",
+    "last_opened_file_path": "D:/Spring Java - Projects!/SpringBlog/src/main/resources/templates/account_views",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -397,7 +445,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Spring Java - Projects!\SpringBlog\src\main\resources\templates\account_views" />
       <recent name="D:\Spring Java - Projects!\SpringBlog_addingUserAccountsSupportintheSpringApp\src\main\resources\templates\post_views" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Spring Java - Projects!\SpringBlog\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -437,7 +489,10 @@
       <workItem from="1708088153152" duration="624000" />
       <workItem from="1708318231338" duration="5399000" />
       <workItem from="1708335579216" duration="1464000" />
-      <workItem from="1708404728491" duration="2026000" />
+      <workItem from="1708404728491" duration="4778000" />
+      <workItem from="1708680706227" duration="2304000" />
+      <workItem from="1708852813556" duration="15000" />
+      <workItem from="1708926847821" duration="10205000" />
     </task>
     <task id="LOCAL-00001" summary="changed directory">
       <option name="closed" value="true" />
@@ -447,7 +502,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707913334641</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="upload photo">
+      <option name="closed" value="true" />
+      <created>1708407211913</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708407211913</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -456,6 +519,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="changed directory" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed directory" />
+    <MESSAGE value="upload photo" />
+    <option name="LAST_COMMIT_MESSAGE" value="upload photo" />
   </component>
 </project>
