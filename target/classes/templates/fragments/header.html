@@ -9,7 +9,7 @@
         <div class="container">
             <nav class="navbar navbar-expand-lg custom_nav-container">
                 <a class="navbar-brand" href="/">
-                    <span> StudyEasy </span>
+                    <span> SDU Edu </span>
                 </a>
 
                 <button
@@ -30,7 +30,7 @@
                 >
                     <ul class="navbar-nav mx-auto">
                         <li class="nav-item">
-                            <a class="nav-link" href="/">Home </a>
+                            <a class="nav-link" href="/">Home</a>
                         </li>
                         <span sec:authorize="!isAuthenticated()">
                             <li class="nav-item">
@@ -41,7 +41,7 @@
                         </span>
                         <span sec:authorize="!isAuthenticated()">
                             <li class="nav-item">
-                                <a class="nav-link" href="/login">login</a>
+                                <a class="nav-link" href="/login">Log in</a>
                             </li>
                         </span>
                         <span sec:authorize="isAuthenticated()">
@@ -60,7 +60,7 @@
 
                         <span sec:authorize="hasRole('ROLE_ADMIN')">
                             <li class="nav-item">
-                                <a class="nav-link" href="/admin">admin</a>
+                                <a class="nav-link" href="/admin">Admin</a>
                             </li>
                         </span>
 
@@ -72,7 +72,7 @@
 
                         <span sec:authorize="isAuthenticated()">
                             <li class="nav-item">
-                                <a class="nav-link" th:href="@{/logout}">logout</a>
+                                <a class="nav-link" th:href="@{/logout}">Log out</a>
                             </li>
                         </span>
                     </ul>
