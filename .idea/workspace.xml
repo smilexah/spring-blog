@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98fb3025-33b7-4a3d-9306-6247a124ad53" name="Changes" comment="added 'Remember me and Reset password' features">
+    <list default="true" id="98fb3025-33b7-4a3d-9306-6247a124ad53" name="Changes" comment="added pagination and sorting for posts">
       <change afterPath="$PROJECT_DIR$/../../DBMS Projects/.idea/DBMS Projects.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../DBMS Projects/Ass4_defence/.idea/Ass4_defence.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../DBMS Projects/Ass5_defence/.idea/Ass5_defence.iml" afterDir="false" />
@@ -25,18 +25,9 @@
       <change afterPath="$PROJECT_DIR$/../../code/course/.idea/course.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../code/stazhka/.idea/stazhka.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../php course/homework/.idea/homework.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db/blogdb.mv.db" beforeDir="false" afterPath="$PROJECT_DIR$/db/blogdb.mv.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/config/SeedData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/config/SeedData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/controller/HomeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/services/PostService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/services/PostService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/fragments/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/fragments/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/fragments/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/fragments/head.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/fragments/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/fragments/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/home_views/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/home_views/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/fragments/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/fragments/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/fragments/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/fragments/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/home_views/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/home_views/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/fragments/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/fragments/head.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,7 +144,7 @@
       <workItem from="1708680706227" duration="2304000" />
       <workItem from="1708852813556" duration="15000" />
       <workItem from="1708926847821" duration="13535000" />
-      <workItem from="1708948177112" duration="2900000" />
+      <workItem from="1708948177112" duration="3781000" />
     </task>
     <task id="LOCAL-00001" summary="changed directory">
       <option name="closed" value="true" />
@@ -179,7 +170,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708940616030</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added pagination and sorting for posts">
+      <option name="closed" value="true" />
+      <created>1708951499742</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1708951499742</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,6 +189,7 @@
     <MESSAGE value="changed directory" />
     <MESSAGE value="upload photo" />
     <MESSAGE value="added 'Remember me and Reset password' features" />
-    <option name="LAST_COMMIT_MESSAGE" value="added 'Remember me and Reset password' features" />
+    <MESSAGE value="added pagination and sorting for posts" />
+    <option name="LAST_COMMIT_MESSAGE" value="added pagination and sorting for posts" />
   </component>
 </project>
