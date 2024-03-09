@@ -5,29 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98fb3025-33b7-4a3d-9306-6247a124ad53" name="Changes" comment="added pagination and sorting for posts">
-      <change afterPath="$PROJECT_DIR$/../../DBMS Projects/.idea/DBMS Projects.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DBMS Projects/Ass4_defence/.idea/Ass4_defence.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DBMS Projects/Ass5_defence/.idea/Ass5_defence.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DBMS Projects/Assignment2/.idea/Assignment2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DBMS Projects/Assignment3/.idea/Assignment3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DBMS Projects/Assignment4/.idea/Assignment4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DBMS Projects/Assignment5/.idea/Assignment5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DBMS Projects/Assignment6/.idea/Assignment6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DBMS Projects/Bonus_task1/.idea/Bonus_task.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DBMS Projects/Bonus_task2/.idea/Bonus_task2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DBMS Projects/Bonus_task3/.idea/Bonus_task3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../DBMS Projects/Practice_work1/.idea/Practice_work1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Documents/Олимпиадное программирование/С++ решение/.idea/С++ решение.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java - Udemy Course!/1. Hello World application in cmd!/1. Hello World application in cmd!.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java - Udemy Course!/Java - Udemy Course!.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../code/c++/.idea/sad.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../code/c++/New folder/.idea/New folder.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../code/course/.idea/course.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../code/stazhka/.idea/stazhka.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../php course/homework/.idea/homework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sdu/edu/kz/SpringBlog/controller/HomeRestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db/blogdb.mv.db" beforeDir="false" afterPath="$PROJECT_DIR$/db/blogdb.mv.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/fragments/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/fragments/head.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,35 +48,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "com.github.iguissouma.nxconsole.dontShowDeprecationNoticeAgain": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Spring Java - Projects!/SpringBlog/src/main/resources/templates/account_views",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "spring.configuration.checksum": "703d37a00bdfd67e6debc7edd3bc0300",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.github.iguissouma.nxconsole.dontShowDeprecationNoticeAgain&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Spring Java - Projects!/SpringBlog/src/main/resources/templates/account_views&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;703d37a00bdfd67e6debc7edd3bc0300&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Spring Java - Projects!\SpringBlog\src\main\resources\templates\account_views" />
@@ -101,6 +84,9 @@
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Spring Java - Projects!\SpringBlog\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="sdu.edu.kz.SpringBlog.controller" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -145,6 +131,7 @@
       <workItem from="1708852813556" duration="15000" />
       <workItem from="1708926847821" duration="13535000" />
       <workItem from="1708948177112" duration="3781000" />
+      <workItem from="1709989006104" duration="1530000" />
     </task>
     <task id="LOCAL-00001" summary="changed directory">
       <option name="closed" value="true" />
